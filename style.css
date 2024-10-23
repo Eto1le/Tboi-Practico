@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url(fonts/upheavtt.ttf) format('truetype')
+}
+
+body {
+    font-family: 'MyFont', sans-serif;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+p {
+
+    color: beige;
+}
+
+img {
+    border-radius: 30px;
+
+}
+
+div {
+    text-align: center;
+
+}
+
+a {
+    color: aliceblue;
+}
+
+video {
+    border-radius: 30px;
+
+}
+
+li {
+    color: beige;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/579013736182782613/D48291AA6FCE3EDA51BDA61917684D07640C2411/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+    color: beige;
+}
+
+.IsaacPersonaje {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.TaintedIsaac {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.MagdalenePersonaje {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.TaintedMagdalenePersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.CainPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedCainPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.JudasPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedJudasPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.BlueBabyPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedBlueBaby {
+    display: flex;
+    justify-content: space-between;
+}
+
+.EvePersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedEvePersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.SamsonPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedSamson {
+    display: flex;
+    justify-content: space-between;
+}
+
+.AzazelPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TaintedAzazelPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
+
+.LazarusPersonaje {
+    display: flex;
+    justify-content: space-between;
+}
