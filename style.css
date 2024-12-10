@@ -7,6 +7,13 @@ body {
     font-family: 'MyFont', sans-serif;
 }
 
+#CuadroIndises{
+    width: 190px;
+  height: 254px;
+  background: rgb(161, 42, 42);
+  box-shadow: rgba(199, 30, 30, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    
+}
 h1 {
     text-decoration: underline;
     text-align: center;
@@ -14,8 +21,8 @@ h1 {
 }
 
 p {
-
-    color: beige;
+    
+    color: #a8c73a;
 }
 
 img {
@@ -54,91 +61,17 @@ table {
     color: beige;
 }
 
-.IsaacPersonaje {
+.Bases{
     display: flex;
     justify-content: space-between;
+}  
 
-}
-
-
-.TaintedIsaac {
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.MagdalenePersonaje {
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.TaintedMagdalenePersonaje {
+.Tainteds{
     display: flex;
     justify-content: space-between;
 }
 
-.CainPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedCainPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.JudasPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedJudasPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.BlueBabyPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedBlueBaby {
-    display: flex;
-    justify-content: space-between;
-}
-
-.EvePersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedEvePersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.SamsonPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedSamson {
-    display: flex;
-    justify-content: space-between;
-}
-
-.AzazelPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.TaintedAzazelPersonaje {
-    display: flex;
-    justify-content: space-between;
-}
-
-.LazarusPersonaje {
-    display: flex;
-    justify-content: space-between;
+.Conclucion{
+    color: beige;
+    text-align: end;
 }
